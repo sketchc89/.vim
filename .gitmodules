@@ -1,0 +1,12 @@
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = git@github.com:preservim/nerdcommenter.git
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "pack/plugins/start/rust.vim"]
+	path = pack/plugins/start/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
+[submodule "pack/plugins/start/tagbar"]
+	path = pack/plugins/start/tagbar
+	url = git@github.com:majutsushi/tagbar.git
